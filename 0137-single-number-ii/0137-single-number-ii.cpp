@@ -1,16 +1,22 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        map<int,int>frq;
-        for(int i:nums)
+        int ans=0;
+        for(int bit=0;bit<32;bit++)
         {
-            if(frq[i]>0) frq[i]+=1;
-            else frq[i]=1;
+            int count=0;
+            for(int i:nums)
+            {
+                if(i & (1<<bit))
+                {
+                    count++;
+                }
+            }
+            if(count%3!=0)
+            {
+                ans=ans|(1<<bit);
+            }
         }
-        for(auto const&[num,count]:frq)
-        {
-            if(count==1) return num ;
-        }
-        return -1;
+        return ans;
     }
 };
