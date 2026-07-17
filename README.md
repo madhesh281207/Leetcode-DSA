@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0682-baseball-game) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0137-single-number-ii) |
+| [0682-baseball-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0682-baseball-game) |
 ## Union-Find
 |  |
 | ------- |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
