@@ -29,11 +29,9 @@ public:
             parent[i]=i;
         }
         for(int i=0;i<N;i++){
-            for(int j=0;j<N;j++){
+            for(int j=i+1;j<N;j++){
                 if(isConnected[i][j]==1){
-                    if(i<j){
                         joinParent(i,j);
-                    }
                 }
             }
         }
