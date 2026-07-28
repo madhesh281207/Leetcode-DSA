@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Sorting
 |  |
@@ -112,10 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Matrix
 |  |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
