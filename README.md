@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0148-sort-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
