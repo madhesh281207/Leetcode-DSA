@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0015-3sum) |
 | [0128-longest-consecutive-sequence](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0137-single-number-ii) |
+| [0200-number-of-islands](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0682-baseball-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Sorting
@@ -115,16 +117,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Heap (Priority Queue)
 |  |
