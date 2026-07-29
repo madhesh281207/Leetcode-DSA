@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0682-baseball-game) |
 ## Math
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0547-number-of-provinces) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
