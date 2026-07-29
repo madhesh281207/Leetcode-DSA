@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0682-baseball-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1732-find-the-highest-altitude](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Union-Find
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0155-min-stack) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
