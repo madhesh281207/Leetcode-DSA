@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0029-divide-two-integers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
 | ------- |
