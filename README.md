@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0029-divide-two-integers) |
+| [1025-divisor-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -186,4 +187,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
