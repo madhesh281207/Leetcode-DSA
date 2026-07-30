@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2974-minimum-number-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/2974-minimum-number-game) |
 | [3838-weighted-word-mapping](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
 ## Union-Find
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0148-sort-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/2974-minimum-number-game) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0682-baseball-game) |
+| [2974-minimum-number-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/2974-minimum-number-game) |
 | [3838-weighted-word-mapping](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
