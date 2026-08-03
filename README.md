@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0029-divide-two-integers) |
+| [0292-nim-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0292-nim-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -196,9 +197,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
