@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0500-keyboard-row) |
 | [0682-baseball-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0989-add-to-array-form-of-integer) |
+| [0994-rotting-oranges](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
@@ -154,12 +155,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Heap (Priority Queue)
