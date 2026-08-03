@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0029-divide-two-integers) |
 | [0263-ugly-number](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 | [0989-add-to-array-form-of-integer](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0412-fizz-buzz](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/2974-minimum-number-game) |
 | [3838-weighted-word-mapping](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
