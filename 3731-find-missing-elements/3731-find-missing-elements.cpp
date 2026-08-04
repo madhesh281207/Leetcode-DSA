@@ -1,9 +1,8 @@
 class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
-        vector<int> ans;
+        vector<int> ans,st(101,0);
         int mn=101,mx=0;
-        bitset<101> st=0;
         for(int i : nums){
             st[i]=1;
             mn=min(i,mn);
