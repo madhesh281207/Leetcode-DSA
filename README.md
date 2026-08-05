@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/madhesh281207/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2974-minimum-number-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/2974-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0148-sort-list) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/madhesh281207/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2974-minimum-number-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/2974-minimum-number-game) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3731-find-missing-elements) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1323-maximum-69-number) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/madhesh281207/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Interactive
 |  |
