@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0015-3sum) |
+| [0045-jump-game-ii](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0045-jump-game-ii) |
 | [1323-maximum-69-number](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1323-maximum-69-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/madhesh281207/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1025-divisor-game) |
 ## Brainteaser
