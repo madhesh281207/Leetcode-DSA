@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0137-single-number-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0994-rotting-oranges) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1025-divisor-game) |
 ## Brainteaser
