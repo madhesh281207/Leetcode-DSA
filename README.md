@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0263-ugly-number](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0412-fizz-buzz) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
