@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0463-island-perimeter) |
