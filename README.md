@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0091-decode-ways](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0412-fizz-buzz](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0459-repeated-substring-pattern) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
+| [0091-decode-ways](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0583-delete-operation-for-two-strings) |
