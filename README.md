@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0547-number-of-provinces) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0547-number-of-provinces) |
@@ -330,9 +332,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0100-same-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhesh281207/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0100-same-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhesh281207/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
