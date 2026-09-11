@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0274-h-index) |
 | [0463-island-perimeter](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0500-keyboard-row) |
 | [0682-baseball-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0682-baseball-game) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0274-h-index) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0274-h-index) |
 | [1833-maximum-ice-cream-bars](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Graph Theory
