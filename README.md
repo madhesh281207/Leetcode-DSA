@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [1386-cinema-seat-allocation](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [2000-reverse-prefix-of-word](https://github.com/madhesh281207/Leetcode-DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Math
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0274-h-index) |
 | [0463-island-perimeter](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0463-island-perimeter) |
+| [0496-next-greater-element-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0500-keyboard-row) |
 | [0682-baseball-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -342,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0100-same-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhesh281207/Leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
