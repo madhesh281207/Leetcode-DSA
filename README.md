@@ -349,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
