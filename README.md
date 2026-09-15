@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0500-keyboard-row) |
+| [0561-array-partition](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0994-rotting-oranges) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0561-array-partition) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0561-array-partition) |
 | [1833-maximum-ice-cream-bars](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Graph Theory
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0561-array-partition) |
 | [1323-maximum-69-number](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
