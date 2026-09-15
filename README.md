@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0994-rotting-oranges) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Counting Sort
 |  |
 | ------- |
