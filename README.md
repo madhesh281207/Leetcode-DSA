@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/madhesh281207/Leetcode-DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2540-minimum-common-value](https://github.com/madhesh281207/Leetcode-DSA/tree/master/2540-minimum-common-value) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0091-decode-ways](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0093-restore-ip-addresses) |
+| [0151-reverse-words-in-a-string](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0459-repeated-substring-pattern) |
