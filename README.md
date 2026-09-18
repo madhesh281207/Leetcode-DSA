@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [0819-most-common-word](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0819-most-common-word) |
+| [0867-transpose-matrix](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1046-last-stone-weight) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 | [2974-minimum-number-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/2974-minimum-number-game) |
 | [3838-weighted-word-mapping](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
