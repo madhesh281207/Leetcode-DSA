@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0819-most-common-word) |
 | [1386-cinema-seat-allocation](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0682-baseball-game) |
