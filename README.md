@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0819-most-common-word) |
 | [1386-cinema-seat-allocation](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0682-baseball-game) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -287,12 +290,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0819-most-common-word) |
 | [1833-maximum-ice-cream-bars](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
