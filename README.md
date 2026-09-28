@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0819-most-common-word) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1386-cinema-seat-allocation](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [2540-minimum-common-value](https://github.com/madhesh281207/Leetcode-DSA/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3731-find-missing-elements) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0412-fizz-buzz) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [0819-most-common-word](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0867-transpose-matrix) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1046-last-stone-weight) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sliding Window
 |  |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0819-most-common-word) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1833-maximum-ice-cream-bars](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Graph Theory
@@ -408,4 +413,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
