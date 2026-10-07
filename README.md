@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/madhesh281207/Leetcode-DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/madhesh281207/Leetcode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/madhesh281207/Leetcode-DSA/tree/master/2974-minimum-number-game) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/madhesh281207/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
