@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/madhesh281207/Leetcode-DSA/tree/master/0511-game-play-analysis-i) |
 ## Geometry
 |  |
